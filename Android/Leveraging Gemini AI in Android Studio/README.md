@@ -26,7 +26,7 @@ The app features a simple layout where the user can input text, and upon clickin
 - **IDE:** Android Studio with Gemini AI Plugin
 - **UI:** XML Layout with LinearLayout
 
-## 🚀 How to Run the Lab
+## 🚀 How to Run
 
 1. Clone this repository or download the ZIP.
 2. Open the project in **Android Studio**.
