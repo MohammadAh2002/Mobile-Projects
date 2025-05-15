@@ -31,7 +31,7 @@ This project is a basic Android application for tracking daily fitness activitie
   - `startActivity()`
   - `Toast.makeText()`
 
-  ## 🚀 How to Run
+## 🚀 How to Run
 
 1. Clone this repository or download the ZIP.
 2. Open the project in **Android Studio**.
