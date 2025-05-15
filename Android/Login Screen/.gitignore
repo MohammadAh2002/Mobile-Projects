@@ -1,21 +1,25 @@
+# Ignore IntelliJ/Android Studio project files
 *.iml
 .gradle/
 .idea/
-  # Ignore specific .idea files that should not be committed
+  # These are inside .idea, but since .idea/ is ignored, these lines are optional
 .idea/caches/
 .idea/libraries/
 .idea/modules.xml
 .idea/workspace.xml
 .idea/navEditor.xml
 .idea/assetWizardSettings.xml
+
+# Ignore build outputs
 /build/
 captures/
+
+# Ignore native build intermediates
 .externalNativeBuild/
 .cxx/
-local.properties
-.DS_Store
-git rm -r --cached .idea
-git rm *.iml
-git rm -r --cached app/build
-git rm local.properties
 
+# Ignore local configuration files
+local.properties
+
+# OS specific files
+.DS_Store
