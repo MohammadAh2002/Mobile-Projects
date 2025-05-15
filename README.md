@@ -1,6 +1,7 @@
 # Mobile-Projects
 Welcome to the **Mobile Projects** repository!  
 This collection showcases a variety of mobile applications I’ve developed — from simple apps to complex systems.
+
 This repository serves as a portfolio of my work and experiments in mobile app development using various technologies.  
 Projects included range from basic applications to fully featured systems.
 
