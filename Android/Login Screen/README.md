@@ -1,4 +1,4 @@
-# 🔐 Login and Registration Screen (Java - Android Studio)
+# 🔐 Login and Registration Screen
 
 This project is a simple Android application that includes **Login** and **Registration** screens built using **Java** in **Android Studio**.
 
