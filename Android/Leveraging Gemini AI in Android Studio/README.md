@@ -17,7 +17,6 @@ The app features a simple layout where the user can input text, and upon clickin
 - Create a basic Android app using **LinearLayout**
 - Integrate widgets: `TextView`, `EditText`, `Button`, and `ImageView`
 - Use **Gemini AI Plugin** in Android Studio for code generation
-- Run and test your app locally
 
 ---
 
