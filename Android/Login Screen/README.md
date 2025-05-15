@@ -19,7 +19,6 @@ It demonstrates how to create basic authentication UI and logic for user login a
 - **Language:** Java  
 - **IDE:** Android Studio  
 - **UI:** XML Layouts  
-- **Architecture:** Basic Activity-based navigation
 
 ## 🚀 How to Run
 
