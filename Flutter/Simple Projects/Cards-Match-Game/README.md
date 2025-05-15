@@ -1,35 +1,22 @@
 # 🎴 Cards Match Game
-
 A simple and fun matching game where you click on images until you find two that match! Each click reveals a random image.
 
----
-
 ## 🎯 Objectives
- 
 - Display images randomly on each click.
 - Detect when two images match.
 - Support multiple platforms: Android, iOS, and Web.
 
----
-
 ## ⚙️ Tech Stack
-
 - **Framework:** Flutter  
 - **Editor:** VS Code  
 - **Platforms:** Android, iOS, Web  
 
----
-
 ## 📱 Key Features
-
 - Simple game logic to check matching pairs  
 - Cross-platform support with responsive UI  
 - Easy to run on emulators or browsers  
 
----
-
 ## 🚀 How to Run
-
 1. Clone this repository or download the ZIP.  
 2. Open the project in **VS Code** (or your preferred editor).  
 3. Run `flutter pub get` to fetch dependencies.  
@@ -47,5 +34,4 @@ A simple and fun matching game where you click on images until you find two that
     ```
 
 ## 📬 Feedback
-
-Feel free to open an issue if you find a bug or have suggestions for improvements.
+- Feel free to open an issue if you find a bug or have suggestions for improvements.
